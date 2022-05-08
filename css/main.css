@@ -78,8 +78,7 @@ span {
 }
 
 #container2{
-  /*background-image: url("image/temnyy-fon-gorod.jpg");*/
-  background-color: #606060;
+  background-image: url("/image/temnyy-fon-gorod.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -119,9 +118,8 @@ font-family: lato;
   height: 200px;
 }
 .container3{
-  background-color: #606060;
   padding-left: 100px;
- /* background-image: url("image/temnyy-fon-gorod.jpg");*/
+  background-image: url("/image/temnyy-fon-gorod.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -131,9 +129,8 @@ font-family: lato;
   background-size: cover;
 }
 .container4{
-  background-color: #606060;
   padding-left: 100px;
-/*  background-image: url("image/temnyy-fon-gorod.jpg");*/
+ background-image: url("/image/temnyy-fon-gorod.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -219,8 +216,7 @@ font-family: lato;
   height: auto;
 }
 .container7{
-  background-color: #606060;
- /* background-image: url("image/temnyy-fon-gorod.jpg");*/
+  background-image: url("/image/temnyy-fon-gorod.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -334,7 +330,7 @@ span {
 }
 
 #container2{
-  /*background-image: url("image/temnyy-fon-gorod.jpg");*/
+  background-image: url("/image/temnyy-fon-gorod.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -374,9 +370,8 @@ font-family: lato;
   height: 200px;
 }
 .container3{
-  background-color: #606060;
   padding-left: 100px;
- /* background-image: url("image/temnyy-fon-gorod.jpg");*/
+  background-image: url("/image/temnyy-fon-gorod.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -386,9 +381,8 @@ font-family: lato;
   background-size: cover;
 }
 .container4{
-  background-color: #606060;
   padding-left: 100px;
-/*  background-image: url("image/temnyy-fon-gorod.jpg");*/
+background-image: url("/image/temnyy-fon-gorod.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -468,8 +462,7 @@ font-family: lato;
   height: auto;
 }
 .container7{
-  background-color: #606060;
-  /*background-image: url("image/temnyy-fon-gorod.jpg");*/
+  background-image: url("/image/temnyy-fon-gorod.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -569,8 +562,7 @@ span {
 }
 
 #container2{
-  background-color: #606060;
-  /*background-image: url("image/temnyy-fon-gorod.jpg");*/
+  background-image: url("/image/temnyy-fon-gorod.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -610,9 +602,8 @@ font-family: lato;
   height: 200px;
 }
 .container3{
-  background-color: #606060;
   padding-left: 100px;
- /* background-image: url("image/temnyy-fon-gorod.jpg");*/
+  background-image: url("/image/temnyy-fon-gorod.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -622,9 +613,8 @@ font-family: lato;
   background-size: cover;
 }
 .container4{
-  background-color: #606060;
   padding-left: 100px;
- /* background-image: url("image/temnyy-fon-gorod.jpg");*/
+  background-image: url("/image/temnyy-fon-gorod.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -707,8 +697,7 @@ font-family: lato;
   height: auto;
 }
 .container7{
-  background-color: #606060;
- /* background-image: url("image/temnyy-fon-gorod.jpg");*/
+  background-image: url("/image/temnyy-fon-gorod.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -808,8 +797,8 @@ span {
 }
 
 #container2{
-  background-color: #606060;
- /* background-image: url("image/temnyy-fon-gorod.jpg");*/
+ 
+  background-image: url("/image/temnyy-fon-gorod.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -849,9 +838,9 @@ font-family: lato;
   height: 200px;
 }
 .container3{
-  background-color: #606060;
+
   padding-left: 100px;
- /* background-image: url("image/temnyy-fon-gorod.jpg");*/
+ background-image: url("/image/temnyy-fon-gorod.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -861,9 +850,8 @@ font-family: lato;
   background-size: cover;
 }
 .container4{
-  background-color: #606060;
   padding-left: 100px;
-  /*background-image: url("image/temnyy-fon-gorod.jpg");*/
+  background-image: url("/image/temnyy-fon-gorod.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -946,8 +934,8 @@ font-family: lato;
   height: auto;
 }
 .container7{
-  background-color: #606060;
-  /*background-image: url("image/temnyy-fon-gorod.jpg");*/
+  
+  background-image: url("/image/temnyy-fon-gorod.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
